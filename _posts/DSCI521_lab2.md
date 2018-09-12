@@ -14,6 +14,5 @@ A general machine learning project contains the following steps:
   - Show your result
 
 A diagram is shown below.
-  ![Machine Learning steps](./images/Machine learning steps.png "Machine Learning steps")
 
 After you finish the general steps to obtain a machine learning model, you can apply the model into practice.
