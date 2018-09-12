@@ -11,7 +11,7 @@ A general machine learning project contains the following steps:
   - Prepare data to solve your machine learning problem
   - Evaluate algorithm that tests a wide different machine learning algorithm
   - Improve your result by keep tuning your result
-  - Show your result
+  - Show your result!
 
 A diagram is shown below.
 
