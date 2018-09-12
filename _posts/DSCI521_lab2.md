@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-# What is the general steps involved in Machine Learing?
+# What is the general steps involved in Machine Learning?
 
 A general machine learning project contains the following steps:
 
