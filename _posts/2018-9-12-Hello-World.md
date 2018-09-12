@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 521lab2!
 ---
 
 # What is the general steps involved in Machine Learning?
